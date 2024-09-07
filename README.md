@@ -6,7 +6,7 @@
 
 # 🔧 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,express,mongodb,vscode)](https://discord.gg/wbqYJG4HDd)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,mongodb,vscode,photoshop)](https://discord.gg/wbqYJG4HDd)
 
 🌍 I Speak Arabic And English
 
