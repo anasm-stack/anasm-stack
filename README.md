@@ -13,8 +13,8 @@
 <p>👨‍💻 Programmer | 🌐 Web Developer</p>
 <p>📚 Editor | 💻 Error Solver | 🎮 Gamer</p>
 
-<p>🌐 Website: [mazika1dev.xyz](https://mazika1dev.xyz)</p>
-<p>💬 Connect with me on Discord: [Join my server](https://discord.gg/GCPTzNZnhJ)</p>
+<p>🌐 Website: <a href="https://mazika1dev.xyz">mazika1dev.xyz</a></p>
+<p>💬 Connect with me on Discord: <a href="https://discord.gg/GCPTzNZnhJ">Join my server</a></p>
 
 - **I'm dedicated to crafting innovative solutions, securing the digital realm, and actively contributing to open-source projects. I'm passionate about diving deep into code and bringing creative ideas to life. Let's connect and collaborate on exciting projects!**
 
