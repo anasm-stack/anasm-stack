@@ -22,6 +22,4 @@
 
 [Youtube](https://www.youtube.com/@specialstudioar) | [Github](https://github.com/specialstudioar)
 
-![Special's GitHub stats](https://github-readme-stats.vercel.app/api?username=specialstudioar&show_icons=true&theme=transparent)
-
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=specialstudioar&layout=donut)
