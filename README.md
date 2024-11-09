@@ -1,4 +1,8 @@
 <div align="center">
+  <p>Welcome to MaZika's Digital Universe 🚀</p>
+</div>
+
+<div align="center">
 
 ![MaZika](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3c99d4&width=435&lines=Welcome+to+MaZika's+Digital+Universe+%F0%9F%8C%9F;Full-Stack+Developer+%F0%9F%92%BB;Creative+Problem+Solver+%F0%9F%92%A1)
 
@@ -9,6 +13,7 @@
 ![Discord](https://discord.c99.nl/widget/theme-2/555873880384995329.png)
 
 <div align="center">
+  <img src="https://i.imgur.com/0GS0rLh.png" alt="GIF Image" style="width: 10%; height: auto; border-radius: 50%; float: left; margin-right: 10px;">
   <h3>✨ Anas Mohamed ✨</h3>
   <p><i>Young Developer on a Mission | Age: 16</i></p>
   
@@ -35,3 +40,6 @@
 </div>
 
 ### 💫 About Me
+<div align="center">
+  <!-- Image already moved above -->
+</div>
