@@ -3,7 +3,7 @@
 
 # 🔧 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,nodejs,express,vscode,photoshop)](https://discord.gg/wbqYJG4HDd)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,nodejs,express,vscode,figma,photoshop)](https://discord.gg/wbqYJG4HDd)
 
 # 💻 Discord
 ![Discord](https://discord.c99.nl/widget/theme-2/555873880384995329.png)
