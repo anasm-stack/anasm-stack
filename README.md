@@ -21,5 +21,3 @@
 # Meza - Social Media
 
 [Youtube](https://www.youtube.com/@specialstudioar) | [Github](https://github.com/specialstudioar)
-
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=specialstudioar&layout=donut)
