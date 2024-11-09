@@ -14,11 +14,11 @@
 <p>📚 Editor | 💻 Error Solver | 🎮 Gamer</p>
 
 <p>🌐 Website: [mazika1dev.xyz](https://mazika1dev.xyz)</p>
-<p>💬 Connect with me on Discord: [Join my server](https://discord.gg/sp2)</p>
+<p>💬 Connect with me on Discord: [Join my server](https://discord.gg/GCPTzNZnhJ)</p>
 
 - **I'm dedicated to crafting innovative solutions, securing the digital realm, and actively contributing to open-source projects. I'm passionate about diving deep into code and bringing creative ideas to life. Let's connect and collaborate on exciting projects!**
 
-# Special Studio Social Media
+# Meza - Social Media
 
 [Youtube](https://www.youtube.com/@specialstudioar) | [Github](https://github.com/specialstudioar)
 
