@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![MaZika](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3c99d4&width=435&lines=Welcome+to+MaZika's+Digital+Universe+%F0%9F%8C%9F;Full-Stack+Developer+%F0%9F%92%BB;Creative+Problem+Solver+%F0%9F%92%A1)
+![MaZika](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3c99d4&width=435&lines=Welcome+to+MaZika's+Digital+Universe+%F0%9F%8C%9F;Full-Stack+Engineer+%F0%9F%92%BB;Creative+Problem+Solver+%F0%9F%92%A1)
 
 ## 🚀 Technical Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,sqlite,mongodb,git,vscode,figma,photoshop,illustrator)](https://discord.gg/wbqYJG4HDd)
@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <td>🛠️ Interests</td>
-      <td>Problem-Solving, Content Creation, Gaming</td>
+      <td>Problem-Solving, Gaming</td>
     </tr>
   </table>
 </div>
