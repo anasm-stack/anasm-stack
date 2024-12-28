@@ -35,7 +35,7 @@
 
 <div align="center">
   <h3>🌐 Find Me Online</h3>
-  <a href="https://mazika.xyz" target="_blank"><img src="https://img.shields.io/badge/Portfolio-mazika1dev.xyz-blue?style=for-the-badge"></a>
+  <a href="https://mazika.xyz" target="_blank"><img src="https://img.shields.io/badge/Portfolio-mazika.xyz-blue?style=for-the-badge"></a>
   <a href="https://discord.gg/GCPTzNZnhJ" target="_blank"><img src="https://img.shields.io/badge/Discord-Join_Community-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
