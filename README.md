@@ -4,9 +4,6 @@
 
 <div align="center">
 
-## 🚀 Technical Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,sqlite,mongodb,git,vscode,figma,photoshop,illustrator)](https://discord.gg/GCPTzNZnhJ)
-
 ## 🎮 Find Me On Discord
 ![Discord](https://discord.c99.nl/widget/theme-2/555873880384995329.png)
 
@@ -33,7 +30,7 @@
 
 <div align="center">
   <h3>🌐 Find Me Online</h3>
-  <a href="https://mazika.xyz" target="_blank"><img src="https://img.shields.io/badge/Portfolio-mazika.xyz-blue?style=for-the-badge"></a>
+  <a href="https://anas-mohamed.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-mazika.xyz-blue?style=for-the-badge"></a>
   <a href="https://discord.gg/GCPTzNZnhJ" target="_blank"><img src="https://img.shields.io/badge/Discord-Join_My_Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
