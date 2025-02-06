@@ -8,7 +8,7 @@
   <img src="https://i.imgur.com/0GS0rLh.png" alt="GIF Image" style="width: 10%; height: auto; border-radius: 50%; float: left; margin-right: 10px;">
   <h3>✨ Anas Mohamed ✨</h3>
  
-  
+
   <table>
     <tr>
       <td>🌍 Languages</td>
@@ -34,6 +34,7 @@
 ### 💫 About Me
 <div align="center">
  ## 🎮 Find Me On Discord
+  
 ![Discord](https://discord.c99.nl/widget/theme-2/555873880384995329.png)
 
 </div>
