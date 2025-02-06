@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://i.imgur.com/0GS0rLh.png" alt="GIF Image" style="width: 20%; height: auto; border-radius: 50%; float: left; margin-right: 10px;">
   <h3>✨ Anas Mohamed ✨</h3>
- 
-
+  
   <table>
     <tr>
       <td>🌍 Languages</td>
@@ -19,6 +18,8 @@
   </table>
 </div>
 
+<br>
+
 <div align="center">
   <h3>🌐 Find Me Online</h3>
   <a href="https://anas-mohamed.vercel.app" target="_blank">
@@ -29,11 +30,10 @@
   </a>
 </div>
 
+<br>
 
-### 💫 About Me
 <div align="center">
- ## 🎮 Find Me On Discord
-  
-![Discord](https://discord.c99.nl/widget/theme-2/555873880384995329.png)
-
+  <h3>💫 About Me</h3>
+  <h4>🎮 Find Me On Discord</h4>
+  <img src="https://discord.c99.nl/widget/theme-2/555873880384995329.png" alt="Discord Widget">
 </div>
