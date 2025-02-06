@@ -10,7 +10,7 @@
 <div align="center">
   <img src="https://i.imgur.com/0GS0rLh.png" alt="GIF Image" style="width: 10%; height: auto; border-radius: 50%; float: left; margin-right: 10px;">
   <h3>✨ Anas Mohamed ✨</h3>
-  <p><i>Young Developer on a Mission | Age: 16</i></p>
+ 
   
   <table>
     <tr>
