@@ -1,11 +1,5 @@
 <div align="center">
-  <p>Welcome to MaZika's Digital Universe 🚀</p>
-</div>
-
-<div align="center">
-
-<div align="center">
-  <img src="https://i.imgur.com/0GS0rLh.png" alt="GIF Image" style="width: 10%; height: auto; border-radius: 50%; float: left; margin-right: 10px;">
+  <img src="https://i.imgur.com/0GS0rLh.png" alt="GIF Image" style="width: 20%; height: auto; border-radius: 50%; float: left; margin-right: 10px;">
   <h3>✨ Anas Mohamed ✨</h3>
  
 
