@@ -34,6 +34,4 @@
 
 <div align="center">
   <h3>💫 About Me</h3>
-  <h4>🎮 Find Me On Discord</h4>
-  <img src="https://discord.c99.nl/widget/theme-2/555873880384995329.png" alt="Discord Widget">
 </div>
