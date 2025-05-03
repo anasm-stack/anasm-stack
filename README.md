@@ -44,9 +44,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm)
 
-### Discord Bots
-![discord.js](https://img.shields.io/badge/-discord.js-5865F2?style=flat&logo=discord)
-![sapphire](https://img.shields.io/badge/-Sapphire_Framework-114283?style=flat&logo=discord)
+### Others
+![discord apps](https://img.shields.io/badge/-discord.js-5865F2?style=flat&logo=discord)
 
 ---
 
