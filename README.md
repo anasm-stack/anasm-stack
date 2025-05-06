@@ -44,6 +44,10 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm)
 
+### Operating Systems
+![Linux](https://img.shields.io/badge/-Linux-181717?style=flat&logo=linux)
+![Windows](https://img.shields.io/badge/-Windows-181717?style=flat&logo=windows)
+
 ### Others
 ![discord apps](https://img.shields.io/badge/-discord.js-5865F2?style=flat&logo=discord)
 
