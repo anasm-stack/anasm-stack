@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi, I'm Anas Mohamed</h1>
 <p align="center">
-  16 y/o Full-Stack Web Developer from Egypt
+   Full-Stack Web Developer from Egypt
 </p>
 
 ---
