@@ -68,23 +68,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🌐 Portfolio & Links
 
 🔗 **Portfolio Website:** [anas-mohamed.vercel.app](https://anas-mohamed.vercel.app)
 
-🎮 **Discord Community:** [Join My Server](https://discord.gg/GCPTzNZnhJ)
+🎮 **Discord Community:** [Contact Me On Discord](https://discord.com/users/555873880384995329)
 
 ---
 
@@ -97,21 +85,9 @@
 
 ---
 
-## 📫 Get In Touch
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0aa4db&height=120&section=footer"/>
